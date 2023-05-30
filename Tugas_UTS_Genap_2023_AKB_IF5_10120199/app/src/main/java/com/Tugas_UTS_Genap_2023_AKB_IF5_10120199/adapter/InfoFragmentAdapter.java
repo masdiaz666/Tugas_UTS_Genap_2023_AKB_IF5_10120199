@@ -29,3 +29,4 @@ public class InfoFragmentAdapter extends FragmentStatePagerAdapter {
     }
 }
 
+//DiazYasir_10120199_IF5
