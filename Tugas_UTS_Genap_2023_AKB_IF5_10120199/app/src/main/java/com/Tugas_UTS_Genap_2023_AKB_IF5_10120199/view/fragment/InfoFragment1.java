@@ -20,3 +20,4 @@ public class InfoFragment1 extends Fragment {
     }
 }
 
+//DiazYasir_10120199_IF5
