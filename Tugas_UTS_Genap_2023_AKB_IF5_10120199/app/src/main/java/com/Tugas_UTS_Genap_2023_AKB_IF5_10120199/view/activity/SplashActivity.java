@@ -30,3 +30,4 @@ public class SplashActivity extends AppCompatActivity {
     }
 }
 
+//DiazYasir_10120199_IF5
