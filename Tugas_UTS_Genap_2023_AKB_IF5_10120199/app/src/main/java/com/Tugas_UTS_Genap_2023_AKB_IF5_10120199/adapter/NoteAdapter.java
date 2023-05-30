@@ -67,3 +67,4 @@ public class NoteAdapter extends RecyclerView.Adapter<NoteAdapter.ViewHolder> {
     }
 }
 
+//DiazYasir_10120199_IF5
